@@ -1,0 +1,74 @@
+body{
+    background-color: #832EA9;
+}
+form{
+    background-color: #27262D;
+    -moz-box-shadow: 5px 5px 5px #27262D ;
+    -webkit-box-shadow: 5px 5px 5px #27262D ;
+    box-shadow: 5px 5px 5px #27262D ;
+    padding: 20px;
+    padding-left: 40px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 3px solid #27262D;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 30%;
+    height: 70%;
+    padding-top: 5px;
+}
+h2{
+    color: #E7E7E7;
+   padding-left: 50px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+label{
+    color:#E7E7E7;
+}
+input{
+    width: 250px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #E7E7E7;
+    border: 2px solid #E7E7E7 ;
+    border-radius: 20px;
+
+
+   
+}
+#sign_upbtn{
+    width: 100px;
+    height: 40px;
+    background-color:#E7115B;
+    font-weight: bold;
+    font-size: 20px;
+    border:  3px solid #E7115B;
+    border-radius: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+input:hover ,#sign_upbtn:hover{
+    box-shadow:#E7115B;
+    padding: 5px;
+}
+#logIn_btn{
+    width: 300px;
+    height: 40px;
+    background-color: #E7115B ;
+    font-weight: bold;
+    font-size: 20px;
+    border:  3px solid  #E7115B ;
+    border-radius: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.input{
+ width: 300px;
+ height: 35px;
+
+}
+a {
+    color:#E7E7E7;
+}
